@@ -1,6 +1,11 @@
-###start 
+## Start 
+    
     npm start
-###test (before npm install mocha)
+
+## Test (before npm install mocha)
+    
     npm test
-###curl /ticker/:symbol
+
+## curl /ticker/:symbol
+    
     curl -X GET http://localhost:8080/ticker/ADAP

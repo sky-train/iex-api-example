@@ -1,0 +1,24 @@
+{
+	"ADBE":{
+		"quote":{
+			"latestPrice":278.48
+		},
+		"logo":{
+			"url":"https://storage.googleapis.com/iex/api/logos/ADBE.png"
+		},
+		"news":[{
+			"url":"https://api.iextrading.com/1.0/stock/adbe/article/6034249200522889"
+		}]
+	},
+	"JHG": {
+		"quote": {
+			"latestPrice": 22.13
+		},
+		"logo": {
+			"url": "https://storage.googleapis.com/iex/api/logos/JHG.png"
+		},
+		"news": [{
+			"url": "http://app.quotemedia.com/quotetools/newsItem.htm?webmasterId=102699&storyId=7777614763842641"
+		}]
+	}
+}

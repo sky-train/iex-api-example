@@ -1,0 +1,12 @@
+{
+	"host": "https://api.iextrading.com",
+	"timeout": 3000,
+	"path": {
+		"logo": "/1.0/stock/:symbol/logo",
+		"news": "/1.0/stock/:symbol/news",
+		"quote": "/1.0/stock/:symbol/quote"
+	},
+	"batch": {
+		"template": "/1.0/stock/:symbol/batch?types=:types"
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"main": "main.js",
+	"engines": {
+		"node": ">=8"
+	},
+	"author": {
+		"name": "Sklyarov Yura",
+		"email": "sklyarov.2y@gmail.com"
+	},
+	"devDependencies": {
+		"mocha": "6.1.4"
+	},
+	"scripts": {
+		"start": "node main.js",
+		"test": "mocha test"
+	}
+}

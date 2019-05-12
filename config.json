@@ -1,0 +1,10 @@
+{
+  "http":{
+    "port":8080
+  },
+  "log":{
+    "dateFormat":"MM/DD/YY hh:mm:ss",
+    "dir": null,
+    "name":"log.txt"
+  }
+}
